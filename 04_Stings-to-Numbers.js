@@ -33,7 +33,7 @@ console.log( (3+ 4) * 5 % 3 )
 
 console.log(true);
 
-let num1 = num2 = num3 = 2 + 3
+let num1 = num2 = num3 = 2 + 3 
 
 let gameCounter = 100
 ++gameCounter;
